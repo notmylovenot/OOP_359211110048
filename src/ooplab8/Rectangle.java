@@ -21,5 +21,7 @@ public class Rectangle implements Shape {
     public double findArea() {
      return width * length;
 
+
+
     }
 }//class
