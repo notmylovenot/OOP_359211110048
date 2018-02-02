@@ -24,5 +24,7 @@ public class midtram3_1 {
         }
         while (a==1);
         System.out.println("Thank your.");
+
     }//main
+
 }//class
